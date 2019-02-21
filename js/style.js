@@ -3,6 +3,7 @@ mdc.switchControl.MDCSwitch.attachTo(document.querySelector('.switch-2'));
 mdc.textField.MDCTextField.attachTo(document.querySelector('.name'));
 mdc.textField.MDCTextField.attachTo(document.querySelector('.address'));
 mdc.textField.MDCTextField.attachTo(document.querySelector('.country'));
+mdc.tabBar.MDCTabBar.attachTo(document.querySelector('.mdc-tab-bar'));
 
 
 

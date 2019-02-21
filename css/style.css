@@ -37,4 +37,12 @@ mat-card-title{
 	font-size: 45px;
 	color: #d9ef07;
 }
-
+.mdc-tab__content {
+    position: relative;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: inherit;
+    pointer-events: none;
+    font-size: 20px;
+}
