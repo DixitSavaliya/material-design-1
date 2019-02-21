@@ -1,0 +1,40 @@
+
+
+.mdc-card {
+
+	background-color: #1fb2cc;
+	padding: 30px;
+}
+.mdc-switch{
+
+	margin-top: 20px;
+}
+.switch-1{
+
+	margin-left: 25px;
+}
+.switch-2{
+
+	margin-left: 75px;
+}
+.mdc-layout-grid {
+	box-sizing: border-box;
+	margin: 0 auto;
+	padding: 24px;
+	padding: var(--mdc-layout-grid-margin-desktop, 24px);
+	background-color: #1fb2cc;
+	margin-top: 20px;
+}
+.mdc-button:not(:disabled) {
+	color: #6200ee;
+	color: var(--mdc-theme-primary, #6200ee);
+	background-color: #0efde7;
+	margin-top: 20px;
+}
+
+mat-card-title{
+	/*margin-left: 350px;*/
+	font-size: 45px;
+	color: #d9ef07;
+}
+
